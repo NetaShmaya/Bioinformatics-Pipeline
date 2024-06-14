@@ -1,3 +1,4 @@
 # Bioinformatics-Pipeline
 A bioinformatics pipeline form FASTQ to annotated VCF file using NextFlow
-BWA for alignment
+Using BWA for alignment
+Using Freebayes for variant calling
